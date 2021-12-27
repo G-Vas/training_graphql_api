@@ -1,0 +1,1 @@
+web: gunicorn training_schedule.wsgi --log-file -
